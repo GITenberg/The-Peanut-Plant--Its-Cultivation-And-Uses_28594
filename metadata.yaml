@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33438'
     url: http://www.gutenberg.org/2009/agents/33438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28594#The-Peanut-Plant--Its-Cultivation-And-Uses
 gutenberg_issued: '2009-04-23'
 gutenberg_type: Text
 identifiers:
